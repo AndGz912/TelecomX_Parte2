@@ -46,16 +46,16 @@ El análisis permite identificar qué clientes están más propensos a cancelar 
 ## 📈 Resultados Visuales
 
 ### 🔹 Comparación de Métricas entre Modelos
-![Comparación de métricas](comparacion_metricas.png)
+![Comparación de métricas](IMAGENES/comparacion_metricas.png)
 
 ### 🔹 Importancia de Variables (Random Forest)
-![Importancia de variables](importancia_variables_RF.png)
+![Importancia de variables](IMAGENES/importancia_variables_RF.png)
 
 ### 🔹 Matriz de Confusión - Random Forest
-![Matriz de confusión RF](matriz_confusion_Random_Forest.png)
+![Matriz de confusión RF](IMAGENES/matriz_confusion_Random_Forest.png)
 
 ### 🔹 Matriz de Confusión - Regresión Logística
-![Matriz de confusión RL](matriz_confusion_Regresion_Logistica.png)
+![Matriz de confusión RL](IMAGENES/matriz_confusion_Regresion_Logistica.png)
 
 ---
 
