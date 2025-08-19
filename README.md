@@ -90,6 +90,7 @@ El análisis permite identificar qué clientes están más propensos a cancelar 
 ## 🧑‍💻 Autor
 👤 **Andrew Gonzales Zeña**  
 📧 [andrew_gz1103@outlook.com](mailto:andrew_gz1103@outlook.com)  
+🔗 [LinkedIn - Andrew Gonzales](www.linkedin.com/in/andrew-gonzales-emi)
 💼 Estudiante de **Ingeniería de Sistemas (UTP)** | **Especialización en Ciencia de Datos (ALURA LATAM)**
 📍 Lima, Perú  
 
